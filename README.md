@@ -24,7 +24,7 @@ return {
             "TheLazyCat00/buffon-colors",
             opts = {
                 --- you can put your options here
-                -- or leave it empty to use the defaults
+                --- or leave it empty to use the defaults
             },
         },
     },
